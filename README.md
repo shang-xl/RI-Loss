@@ -27,11 +27,11 @@ bash ./scripts/EXP-LongForecasting/Linear/etth1.sh
 ## Acknowledgements
 We appreciate the following GitHub repos a lot for their valuable code and efforts.
 
-* Dlinear:
-* Informer:
-* Autoformer:
+* Dlinear: https://github.com/cure-lab/LTSF-Linear  
+* Informer: https://github.com/zhouhaoyi/Informer2020  
+* Autoformer: https://github.com/thuml/Autoformer  
 * iTransformer: https://github.com/thuml/iTransformer  
-* RAFT:
+* RAFT: https://github.com/archon159/RAFT  
 
 
 
